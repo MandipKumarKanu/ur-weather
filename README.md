@@ -36,7 +36,14 @@ npm run dev
 
 ---
 
-### **Built With ❤️ By [Mandy](https://github.com/MandipKumarKanu) **
+## 🌐 Live Demo
 
+Try the live demo of this project:
+
+[**Live Demo URL**](https://ur-weather.web.app/)
+
+---
+
+### **Built With ❤️ By [Mandy](https://github.com/MandipKumarKanu) **
 
 ---
